@@ -7,10 +7,9 @@
 - 👨‍🏫 I served as a Graduate Teaching Assistant at the Department of Sociology, CUHK (Aug 2022 - Aug 2024), facilitating discussions and providing mentorship to undergraduate students[1].
 - 🧑‍💼 Also, I work as a Hostel Tutor at Lee Woo Sing College, CUHK (Aug 2021 - Present), where I design student engagement initiatives and provide academic and personal counseling[1].
 - 📫 Feel free to reach out at qidonghanginhk@gmail.com
+- 📚 Reading (historical and social science nonfiction)
+- ⛰️ Hiking (exploring mountain trails)
 
-> "📚 Reading (historical and social science nonfiction), ⛰️ Hiking (exploring mountain trails)"
-
-![Summary Card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourgithubusername&theme=nord_bright)
 
 **🛠️ Tools & Skillsets:**
 <a href="https://github.com/yourgithubusername/github-readme-stats">
@@ -37,13 +36,9 @@
   - Leveraged OpenAI's GPT API to measure domain-specific social science data[1].
   - Designed visualizations to present insights on text classification results[1].
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=GPT-Project&theme=vue)](https://github.com/yourgithubusername/GPT-Project)
-
 - **📊 Sociology & Public Health Project | Quantitative Methodology**
   - Employed large-scale survey datasets and performed extensive data preprocessing[1].
   - Conducted predictive modeling to analyze the relationship between socio-demographic status and health condition[1].
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourgithubusername&repo=Sociology-Public-Health&theme=vue)](https://github.com/yourgithubusername/Sociology-Public-Health)
 
 <!---
 qidonghang/qidonghang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
