@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Donghang QI
 
 - 🎓 Master of Philosophy in Sociology at The Chinese University of Hong Kong (Expected July 2025).
-- 🎓 Master of Arts in Sociology, CGPA: 3.64 (Sep 2021 - July 2022).
-- 🎓 Bachelor of Social Sciences in Economics, CGPA: 3.43 (Sep 2017 - July 2021).
+- 🎓 Master of Arts in Sociology (Sep 2021 - July 2022).
+- 🎓 Bachelor of Social Sciences in Economics (Sep 2017 - July 2021).
 - 👨‍🔬 I am currently a Graduate Research Assistant at the Department of Sociology, CUHK (Aug 2022 - Present), where I lead data collection, manage data quality, and apply advanced quantitative analysis[1].
 - 👨‍🏫 I served as a Graduate Teaching Assistant at the Department of Sociology, CUHK (Aug 2022 - Aug 2024), facilitating discussions and providing mentorship to undergraduate students[1].
 - 🧑‍💼 Also, I work as a Hostel Tutor at Lee Woo Sing College, CUHK (Aug 2021 - Present), where I design student engagement initiatives and provide academic and personal counseling[1].
