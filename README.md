@@ -10,12 +10,7 @@
 - 📚 Reading (historical and social science nonfiction)
 - ⛰️ Hiking (exploring mountain trails)
 
-
 **🛠️ Tools & Skillsets:**
-<a href="https://github.com/yourgithubusername/github-readme-stats">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=yourgithubusername&show_icons=true&count_private=true&include_all_commits=true&hide=issues&rank_icon=github&border_color=2e4058&theme=vue" alt="yourgithubusername"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithubusername&layout=compact&hide_progress=true&border_color=2e4058&theme=graywhite" alt="yourgithubusername">
-</a>
 
 - Programming Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -27,8 +22,6 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat&logo=microsoft-office&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
-<br />
 
 #### 🚀 Selected Projects:
 
